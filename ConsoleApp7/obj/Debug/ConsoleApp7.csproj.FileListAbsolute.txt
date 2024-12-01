@@ -1,0 +1,7 @@
+E:\работа\прак13\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+E:\работа\прак13\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+E:\работа\прак13\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+E:\работа\прак13\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+E:\работа\прак13\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+E:\работа\прак13\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+E:\работа\прак13\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
